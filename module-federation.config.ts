@@ -7,7 +7,7 @@ export default createModuleFederationConfig({
   },
   filename: 'static/remoteEntry.js',
   exposes: {
-    './Banner': './src/components/Banner.tsx',
+    './Banner': './src/components/Banner/index.tsx',
   },
   shared: {
     react: { singleton: true },

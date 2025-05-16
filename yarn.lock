@@ -1294,31 +1294,31 @@
     semver "^7.3.5"
     tar "^6.1.11"
 
-"@modern-js/app-tools@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/app-tools/-/app-tools-2.67.5.tgz#fcd1a5659992ba054ca17708d8eff78447499618"
-  integrity sha512-kZOIJDKAR63j/RGW9zuJgYC7WnYdAmsxhk4JDvQmckY8PevCbDRNzMNxeNOXUxJdUeB6Oms7nwUtd6k3e+EszA==
+"@modern-js/app-tools@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/app-tools/-/app-tools-2.67.4.tgz#7b3e52d3b16d42a97a195c9aa6bd6046e1f2b743"
+  integrity sha512-01SeyJuc25OgOoBp8gwYoRiLAkCyDO2F6gzkOR67LAGjXK60Z10xOxGM28rYzUP5qbY3Nd4v+EBPGdYY01Kaig==
   dependencies:
     "@babel/parser" "^7.22.15"
     "@babel/traverse" "^7.23.2"
     "@babel/types" "^7.26.0"
-    "@modern-js/core" "2.67.5"
-    "@modern-js/node-bundle-require" "2.67.5"
-    "@modern-js/plugin" "2.67.5"
-    "@modern-js/plugin-data-loader" "2.67.5"
-    "@modern-js/plugin-i18n" "2.67.5"
-    "@modern-js/plugin-v2" "2.67.5"
-    "@modern-js/prod-server" "2.67.5"
-    "@modern-js/rsbuild-plugin-esbuild" "2.67.5"
-    "@modern-js/server" "2.67.5"
-    "@modern-js/server-core" "2.67.5"
-    "@modern-js/server-utils" "2.67.5"
-    "@modern-js/types" "2.67.5"
-    "@modern-js/uni-builder" "2.67.5"
-    "@modern-js/utils" "2.67.5"
-    "@rsbuild/core" "1.3.20"
+    "@modern-js/core" "2.67.4"
+    "@modern-js/node-bundle-require" "2.67.4"
+    "@modern-js/plugin" "2.67.4"
+    "@modern-js/plugin-data-loader" "2.67.4"
+    "@modern-js/plugin-i18n" "2.67.4"
+    "@modern-js/plugin-v2" "2.67.4"
+    "@modern-js/prod-server" "2.67.4"
+    "@modern-js/rsbuild-plugin-esbuild" "2.67.4"
+    "@modern-js/server" "2.67.4"
+    "@modern-js/server-core" "2.67.4"
+    "@modern-js/server-utils" "2.67.4"
+    "@modern-js/types" "2.67.4"
+    "@modern-js/uni-builder" "2.67.4"
+    "@modern-js/utils" "2.67.4"
+    "@rsbuild/core" "1.3.16"
     "@rsbuild/plugin-node-polyfill" "1.3.0"
-    "@swc/helpers" "^0.5.17"
+    "@swc/helpers" "0.5.13"
     es-module-lexer "^1.1.0"
     esbuild "0.17.19"
     esbuild-register "^3.5.0"
@@ -1328,30 +1328,30 @@
     pkg-types "^1.1.0"
     std-env "^3.7.0"
 
-"@modern-js/babel-compiler@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/babel-compiler/-/babel-compiler-2.67.5.tgz#ae14724cffb8010c2e419256f923d9dd135d028a"
-  integrity sha512-CWi66cVz94Cc8hpAa6zC8vELStWdZjj9wlRnT6U81V8ptIbXRGw2+QFBrSEchfwE+58Da+mnw/GBMJc9PYdpUg==
+"@modern-js/babel-compiler@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/babel-compiler/-/babel-compiler-2.67.4.tgz#48c3ff6f29c004a22228d8a565e517864f261471"
+  integrity sha512-PCt4ldI5UlQV9rK/2cLfa2B9JGflVhR8YwBIJZJEBo+D5hosQ88lwwg8iuE/8pojJal3ECN2s2GZR6O/PypcyQ==
   dependencies:
     "@babel/core" "^7.26.0"
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
 
-"@modern-js/babel-plugin-module-resolver@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/babel-plugin-module-resolver/-/babel-plugin-module-resolver-2.67.5.tgz#577260eed4e037587e863790283253a432d49e74"
-  integrity sha512-mPUyU58uV1eSk1lr3Rt//BbE3i1GhPKe5ljg8zlGtJQ5zJWpImMQoz7jDsBgDz7w/ejMNFBrd1PC4CAxzZ/eIQ==
+"@modern-js/babel-plugin-module-resolver@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/babel-plugin-module-resolver/-/babel-plugin-module-resolver-2.67.4.tgz#c74d975871b82f04a905a920ae4d04e318ad953b"
+  integrity sha512-vrwGW6v+P1liIlAzSfT1UL7JnBSAUeMAd1E1vefKRHqlcnSPgxeTBjsOWSAZgIgMbwkW/bN74AGRU/C2aH5N2Q==
   dependencies:
-    "@swc/helpers" "^0.5.17"
+    "@swc/helpers" "0.5.13"
     glob "^8.0.3"
     pkg-up "3.1.0"
     reselect "^4.1.7"
     resolve "^1.22.1"
 
-"@modern-js/babel-preset@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/babel-preset/-/babel-preset-2.67.5.tgz#15841ecbafceeaf7f1a25e9f922b7cd15cdf204f"
-  integrity sha512-+q1g8q8RtbfgrH3CwhWS+QF563EnPC+MBe6pAKNigFNVdmDzVD39bv/HJqlqvX68yHdYRUJQOuO6cU2DIs8YmA==
+"@modern-js/babel-preset@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/babel-preset/-/babel-preset-2.67.4.tgz#02adce6b02463d1d7c7694b458103ef8d835e907"
+  integrity sha512-4KiAHWU6aVuLn8g94wL3abeGsKaPOvwUp9u5D2qUF4UqU3CoQC20Q4CHdUf2Mx7q0fs9VxKcmqnZfDH0V12lQQ==
   dependencies:
     "@babel/core" "^7.26.0"
     "@babel/plugin-proposal-decorators" "^7.24.7"
@@ -1364,25 +1364,25 @@
     "@babel/runtime" "^7.26.0"
     "@babel/types" "^7.26.0"
     "@rsbuild/plugin-babel" "1.0.5"
-    "@swc/helpers" "^0.5.17"
+    "@swc/helpers" "0.5.13"
     "@types/babel__core" "^7.20.5"
     babel-plugin-dynamic-import-node "2.3.3"
     core-js "~3.40.0"
 
-"@modern-js/core@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/core/-/core-2.67.5.tgz#69a565ad50d40ad6c60e85b7c59e162095463196"
-  integrity sha512-pqasiwpwKoIPhZahDWLBT6025qQQ8mzZeNgzlYa+cjiOnXc0FRZgWs23wYtCzzj/rxwWTRj5Ta6I+RJ3s5flCg==
+"@modern-js/core@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/core/-/core-2.67.4.tgz#57748ed88282b172932e18ab7b5c790bd7304308"
+  integrity sha512-2PrEd4rvqqOgiBqnIXJ2Euf6rUlyJQ/pQpgVHCJU/sil6k+Fh0a841qukLHDfgNV6vCvfkey4VED87enLIAo4w==
   dependencies:
-    "@modern-js/node-bundle-require" "2.67.5"
-    "@modern-js/plugin" "2.67.5"
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/node-bundle-require" "2.67.4"
+    "@modern-js/plugin" "2.67.4"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
 
-"@modern-js/flight-server-transform-plugin@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/flight-server-transform-plugin/-/flight-server-transform-plugin-2.67.5.tgz#8fc7cc88b1238cf651362b5d3d11fe0b02817cf4"
-  integrity sha512-rJZWCY1micqEcUnfDNUvzKk2HTvydEJkdLytFdKTprmytV/smh9HsaGlFAEu3BAKffqb0XTE22740yKqTGcbaQ==
+"@modern-js/flight-server-transform-plugin@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/flight-server-transform-plugin/-/flight-server-transform-plugin-2.67.4.tgz#35b3af1d5fb659b6eff2761df420aab122c6c7f2"
+  integrity sha512-bCuoq3yt5D2u7bX2tNWqwI47HvdWq4mPFbFyWl4Z0lkt7stM95MgNNYqG6ZkPKafjdpIzCWTkQz1cn54UQt9qw==
 
 "@modern-js/node-bundle-require@2.65.1":
   version "2.65.1"
@@ -1393,113 +1393,113 @@
     "@swc/helpers" "0.5.13"
     esbuild "0.17.19"
 
-"@modern-js/node-bundle-require@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/node-bundle-require/-/node-bundle-require-2.67.5.tgz#2834a4f344567e199112979b659fddec2d7838cf"
-  integrity sha512-H0U1vxgKZMiJFmcKAdJYq6egWEMshl9G1g4pi5ux2qhby44VocnG3ddoTDgstu8s3cepHE/apFfaq6Hj0R/CDQ==
+"@modern-js/node-bundle-require@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/node-bundle-require/-/node-bundle-require-2.67.4.tgz#a5e040467deab4ee52b900ddde442379941c5952"
+  integrity sha512-BDNXaeIaHUGnoRhoEn92yn2vq/2fD6CCaGgWuW8JRw7Je02xrJMQ6L/ke7w4JAsu0ZTge/bhFPYK46h1kLwgRg==
   dependencies:
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
     esbuild "0.17.19"
 
-"@modern-js/plugin-data-loader@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/plugin-data-loader/-/plugin-data-loader-2.67.5.tgz#bdc686a2799231122ff4597c1733ce370b339e8a"
-  integrity sha512-nMDZf5B9JqroIb6RStkbHhWoS+JyYP/MDa+U2Z4DM7XiwhPTwbONPE2jFa326sHdsgq5fLWiyyzPrkIEShk00A==
+"@modern-js/plugin-data-loader@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/plugin-data-loader/-/plugin-data-loader-2.67.4.tgz#6249a5d46f76aa6e929c22dc3db349bc653e0452"
+  integrity sha512-aRFZTrrekZIEpDqPPtfzOn+swubekrGD31NOlsi01wkx7rwfbi41wozwzw4t6YZkA8z9PIqWjyxRHD2Y82+RUg==
   dependencies:
     "@babel/core" "^7.26.0"
-    "@modern-js/runtime-utils" "2.67.5"
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/runtime-utils" "2.67.4"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
     path-to-regexp "^6.2.0"
 
-"@modern-js/plugin-i18n@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/plugin-i18n/-/plugin-i18n-2.67.5.tgz#a683f610e34253b4e2195364ec91642773cc456a"
-  integrity sha512-mGJEhbmoB2IphT4t9eaRoAWcuHoaWJVewpIk8jgewr010Oe86x+2CSGe2G1w3Mo5jtuPxyATH9/0OMYS28rGHw==
+"@modern-js/plugin-i18n@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/plugin-i18n/-/plugin-i18n-2.67.4.tgz#db64189cdf989bb8516c24dc32b7c974540a8cd5"
+  integrity sha512-tytz1Ib3wKp2bkj262zvd/zln2ofyeikxYwkUDjoFM2kG9sTD0QsX1tG5ulHyw6BMDnRfmXfeemkXgImCLdDVA==
   dependencies:
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
 
-"@modern-js/plugin-v2@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/plugin-v2/-/plugin-v2-2.67.5.tgz#f307ca82a74512df3fab27fd8a5aee037b876d55"
-  integrity sha512-gV9TLvWZZGobt64V2RgWk8MaYfwmucIK+GBfwI5w6pRwVKd1+2MSTNxyQZsdQoGPrIOAOtzN/mWTSZE1ygdblA==
+"@modern-js/plugin-v2@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/plugin-v2/-/plugin-v2-2.67.4.tgz#45277e2db1a715d599224e4ef2ec87d41d50e10a"
+  integrity sha512-94U6KMovUVhUL0AMtY7slLtKB/+mI1CJrP/+fKv9z83TV1HMenqMVlzi5QFsElsif/ftZLwYX6KFpVIBQFSYGw==
   dependencies:
-    "@modern-js/runtime-utils" "2.67.5"
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/runtime-utils" "2.67.4"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
     jiti "1.21.7"
 
-"@modern-js/plugin@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/plugin/-/plugin-2.67.5.tgz#f716687aa0f05a743689316116e9622167b9c6e5"
-  integrity sha512-0Dgyba9fgB62NEGFCI3V5FPtLF2XFg2BZ/I+kErdVhy/o6/Na9pScDRSHReLcZxW68C9pJlh7XskrMF2OFqpZA==
+"@modern-js/plugin@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/plugin/-/plugin-2.67.4.tgz#e1f2ad08c91a1ab1fa2ebf8767de3d95cc9cf841"
+  integrity sha512-VKF+BVnDMe5M6puaYgkmPjWiFNvvU5DXLQgCu10LPEX1QqY1wiRzifFiaUvYRZ5dlBi8GWiet5sPyWhc32a5dQ==
   dependencies:
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
 
-"@modern-js/prod-server@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/prod-server/-/prod-server-2.67.5.tgz#f26fbca1471221f7e1a79d20ab6f48c9685ee657"
-  integrity sha512-dc93VhiVHKV+Kg5bcysubMmBHfhJR1vjcahUqqXk9qGvSW6WTBxuNp6XEhn1Pjh88WI2JUREg8dXxgz4m6FL0Q==
+"@modern-js/prod-server@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/prod-server/-/prod-server-2.67.4.tgz#aacceb70af61343608cded347f571db5da25ee05"
+  integrity sha512-ugGpxKNZP62Wt/TUhfCRgtsysPTURzyBmxdDjDRmq4pb9w2gSFt1kJaKqLOut2qJbtNVI3fY+ufybhNZLtWJmQ==
   dependencies:
-    "@modern-js/runtime-utils" "2.67.5"
-    "@modern-js/server-core" "2.67.5"
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/runtime-utils" "2.67.4"
+    "@modern-js/server-core" "2.67.4"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
     source-map-support "0.5.21"
 
-"@modern-js/render@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/render/-/render-2.67.5.tgz#5413d4f19a6a51608cece93a6764770e599d57d5"
-  integrity sha512-Ee5Z5v5IYyEyNZnxRxZug4bVXOTyWe8K32bTjLKMuodmPo8zbLAzH0nfLdonygdHIuW4SNLOaa6qkO6JoJvyig==
+"@modern-js/render@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/render/-/render-2.67.4.tgz#0544fac59b570b3935965c6f45dd0a235a4a7018"
+  integrity sha512-fqGneC4v+nulOGoh2YEbmvthIsOfELxBWKyUtDUoYG/AQxYoeFXGzC1TDw7mRs38xka6qzHgka0ZoO47XAIcWg==
   dependencies:
-    "@modern-js/types" "2.67.5"
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/types" "2.67.4"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
     rsc-html-stream "0.0.5"
 
-"@modern-js/rsbuild-plugin-esbuild@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/rsbuild-plugin-esbuild/-/rsbuild-plugin-esbuild-2.67.5.tgz#28e46809763c466669f97553cb378c2c35e5d7ce"
-  integrity sha512-4In7W+fsgPTJtGz08AiWmUU1aKunlMBMw4BNyhO1b72qHTowlgPiGBiZw6hKSIBWMxPUSIhe0Ej+0b6BUMs+RA==
+"@modern-js/rsbuild-plugin-esbuild@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/rsbuild-plugin-esbuild/-/rsbuild-plugin-esbuild-2.67.4.tgz#9a0561aaf2791243a0e289deaa3fa1e27f14205e"
+  integrity sha512-/Hjw0oCMeCyBr4UuQNUrnPQ7MHHaKciC2CdlCXWZr3g9YoEeX4P0BVYEasT9oBrWTeqhmP8wT7/ruBer4HlD4w==
   dependencies:
-    "@swc/helpers" "^0.5.17"
+    "@swc/helpers" "0.5.13"
     esbuild "0.17.19"
-    webpack "^5.99.8"
+    webpack "^5.98.0"
 
-"@modern-js/runtime-utils@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/runtime-utils/-/runtime-utils-2.67.5.tgz#b3546f6db49dfad2f3a270a81d934091a75e7f06"
-  integrity sha512-utd53kk7nrosrn3CUoBHcZkbxWeTOd622ebYzpRi/fOsEtZ18T45Rnb5tn1C8C0AapoQdK7HY9eqyhqilxDqhg==
+"@modern-js/runtime-utils@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/runtime-utils/-/runtime-utils-2.67.4.tgz#8eeb922dfe515b66e930eec14c7cb11047905b18"
+  integrity sha512-hVqoiciCuv26396MNyq++FMRkmyLxfzSMc9cdODLUc15Ba+txjaqC/a5XRf1oNzlELQkFndy75k2E6XOWwaKSQ==
   dependencies:
-    "@modern-js/types" "2.67.5"
-    "@modern-js/utils" "2.67.5"
+    "@modern-js/types" "2.67.4"
+    "@modern-js/utils" "2.67.4"
     "@remix-run/router" "1.20.0"
-    "@swc/helpers" "^0.5.17"
+    "@swc/helpers" "0.5.13"
     lru-cache "^10.4.3"
     react-router-dom "6.27.0"
     serialize-javascript "^6.0.0"
 
-"@modern-js/runtime@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/runtime/-/runtime-2.67.5.tgz#c2f287cd9159134152800fd90c2fc24d2e56dd7b"
-  integrity sha512-myl2Kucx5MfMdjVfRSQANA2vC4+utQdaWklWgBcVd1RRQl5hVS5BwxCavixEhgxGLY2Q0Q3/GswD5/ecFGov/g==
+"@modern-js/runtime@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/runtime/-/runtime-2.67.4.tgz#a68aedb0b6ea91d3c816151a0d39b02b6421de26"
+  integrity sha512-nHKbYw0/3/T+mr/UgVIYQ9bpkKhhBvJxb2QellUfe2vKZ9kFDneekeS05AmdhdAs03WJUisd5d1A944jaPQmWg==
   dependencies:
     "@babel/core" "^7.26.0"
     "@babel/types" "^7.26.0"
     "@loadable/babel-plugin" "5.15.3"
     "@loadable/component" "5.15.3"
     "@loadable/server" "5.15.3"
-    "@modern-js/plugin" "2.67.5"
-    "@modern-js/plugin-data-loader" "2.67.5"
-    "@modern-js/plugin-v2" "2.67.5"
-    "@modern-js/render" "2.67.5"
-    "@modern-js/runtime-utils" "2.67.5"
-    "@modern-js/types" "2.67.5"
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/plugin" "2.67.4"
+    "@modern-js/plugin-data-loader" "2.67.4"
+    "@modern-js/plugin-v2" "2.67.4"
+    "@modern-js/render" "2.67.4"
+    "@modern-js/runtime-utils" "2.67.4"
+    "@modern-js/types" "2.67.4"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
     "@types/loadable__component" "^5.13.4"
     "@types/react-helmet" "^6.1.2"
     "@types/styled-components" "^5.1.14"
@@ -1513,16 +1513,16 @@
     react-side-effect "^2.1.1"
     styled-components "^5.3.1"
 
-"@modern-js/server-core@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/server-core/-/server-core-2.67.5.tgz#cf0eafb08ad898f7d364e880405d1b45fe29a57c"
-  integrity sha512-J/D9jK50KGEliu/Hh4IbAH2P5mfbz7zB9O4o2VtyZT/0YiHBePGw0B9gYbpfsfCt4dFEwCTCcRnydJVE8GRg/g==
+"@modern-js/server-core@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/server-core/-/server-core-2.67.4.tgz#35bc03d4fdc93b9433957bcd76608abf89569c4a"
+  integrity sha512-SCUq36B09ADuPAIubPDGvG3HNu5FCyBwbJy7Oc28d+4xP8b1g5L/kJ5iupdJEQxR6JRIQMizlcJSqGd61jFsxA==
   dependencies:
-    "@modern-js/plugin" "2.67.5"
-    "@modern-js/plugin-v2" "2.67.5"
-    "@modern-js/runtime-utils" "2.67.5"
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/plugin" "2.67.4"
+    "@modern-js/plugin-v2" "2.67.4"
+    "@modern-js/runtime-utils" "2.67.4"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
     "@web-std/fetch" "^4.2.1"
     "@web-std/file" "^3.0.3"
     "@web-std/stream" "^1.0.3"
@@ -1531,36 +1531,36 @@
     hono "^3.12.2"
     ts-deepmerge "7.0.2"
 
-"@modern-js/server-utils@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/server-utils/-/server-utils-2.67.5.tgz#ee446ab2ebb1308f7bfb161e7bbe4ec70717f397"
-  integrity sha512-GApUJy+bi4pUknLt56+765rYNxrRPPsQb71C9vN2c1GWp2ol0wsCMgQDmpWYI1F1zvrp4TLsMDq5ngGjnxcPHw==
+"@modern-js/server-utils@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/server-utils/-/server-utils-2.67.4.tgz#20aa41521da491300bdbaec272ea45e70fe9b5ef"
+  integrity sha512-JjkWNGKewRnhsx0+nmadCh/HsAwKVG4vA+F/qf28k0V5zfzweFz56tY96oahSjq1jZ29Q4wZh4az16WULwdL/Q==
   dependencies:
     "@babel/core" "^7.26.0"
     "@babel/plugin-proposal-decorators" "^7.24.7"
     "@babel/preset-env" "^7.26.0"
     "@babel/preset-react" "^7.22.15"
     "@babel/preset-typescript" "^7.26.0"
-    "@modern-js/babel-compiler" "2.67.5"
-    "@modern-js/babel-plugin-module-resolver" "2.67.5"
-    "@modern-js/babel-preset" "2.67.5"
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/babel-compiler" "2.67.4"
+    "@modern-js/babel-plugin-module-resolver" "2.67.4"
+    "@modern-js/babel-preset" "2.67.4"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
     babel-plugin-transform-typescript-metadata "^0.3.2"
 
-"@modern-js/server@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/server/-/server-2.67.5.tgz#079208f697100df4f9b57d88627c8f8b76d1d701"
-  integrity sha512-EeItN3EdOekrfm4Q1Ikzbg2WmeMTmyejuR7dx3dyXLMiM71471Y4MVi/lfDfKH2q8OUhXJpKbsToHaePi6Pnqg==
+"@modern-js/server@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/server/-/server-2.67.4.tgz#db16ae7eabd6af2ce3199eb59229b621dc338733"
+  integrity sha512-yP6gmTyNMVeIRqpbGU+p5JgNorKkdLacYWYUEWBgssK/OJB8l72XJeYmj4skraEcMdAiwn7DozGC+7e6dT9g1A==
   dependencies:
     "@babel/core" "^7.26.0"
     "@babel/register" "^7.22.15"
-    "@modern-js/runtime-utils" "2.67.5"
-    "@modern-js/server-core" "2.67.5"
-    "@modern-js/server-utils" "2.67.5"
-    "@modern-js/types" "2.67.5"
-    "@modern-js/utils" "2.67.5"
-    "@swc/helpers" "^0.5.17"
+    "@modern-js/runtime-utils" "2.67.4"
+    "@modern-js/server-core" "2.67.4"
+    "@modern-js/server-utils" "2.67.4"
+    "@modern-js/types" "2.67.4"
+    "@modern-js/utils" "2.67.4"
+    "@swc/helpers" "0.5.13"
     axios "^1.7.4"
     connect-history-api-fallback "^2.0.0"
     http-compression "1.0.6"
@@ -1568,29 +1568,29 @@
     path-to-regexp "^6.2.0"
     ws "^8.13.0"
 
-"@modern-js/tsconfig@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/tsconfig/-/tsconfig-2.67.5.tgz#dec82efd3071c837f45de5c05b9a13af97ae8eba"
-  integrity sha512-nigyKDJSdaM/ERX/QcoB5tLcSRnvK9vK/M0bQ2K1skMJItbAol9tNL8qwYdaAi/UwtMw8CxvVsZSl7+Pfp3KoA==
+"@modern-js/tsconfig@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/tsconfig/-/tsconfig-2.67.4.tgz#2df1fa2f3a174a617ad863ecf87a87327c7b9828"
+  integrity sha512-eCWDnbP8nj9JWDj0W7T2boCA7y9LIhBuFW+cAMV2dgzsbhOITpr2GkxN8ewul7jH7oB2q9XuMGc1vy9Mi/gEFg==
 
-"@modern-js/types@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/types/-/types-2.67.5.tgz#950b3e317da7e748bd91c454be41bc2296ca19a5"
-  integrity sha512-0lo0kXSacgiJ0xdAdPw8pw56e0QF++HpfexT0tgyxdZzdBmTViyqLBC+7/oHaRtp8PzVhg/q3aaG/da26Pw3Jw==
+"@modern-js/types@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/types/-/types-2.67.4.tgz#1c236eab4f0771eab66f199c15409a6d2ea1a3a7"
+  integrity sha512-Sw5ug91cPQYS4UEY6J9PiGj/9YLWxXZ1EZmYICbnDh9CKmAxwqB7ajAVmRNlczBxAn9GwjR0QsWjs26YRKmfIg==
 
-"@modern-js/uni-builder@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/uni-builder/-/uni-builder-2.67.5.tgz#76679d749142ca34c9e7bf69f1710ea37985508b"
-  integrity sha512-TXAEIy3k+BQ2JVGR3WCiC7fL30A/bMVnrW673wO+htba0mLm/Cgs8RoZCkrQEBUn3G5Pg89mv0SHLi7uoS18DQ==
+"@modern-js/uni-builder@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/uni-builder/-/uni-builder-2.67.4.tgz#ac9e57dc8d76f76ba0442dd24c85cd55267cbda9"
+  integrity sha512-9Ri9oN7bd4RWDtnN7LJtsyEf1FwtolJhT2oG5lE0uasqJcqzbztN3DIJRAWNFCt7Nj/gWpvY2p9sHJLHYVjvAw==
   dependencies:
     "@babel/core" "^7.26.0"
     "@babel/preset-react" "^7.22.15"
     "@babel/types" "^7.26.0"
-    "@modern-js/babel-preset" "2.67.5"
-    "@modern-js/flight-server-transform-plugin" "2.67.5"
-    "@modern-js/utils" "2.67.5"
+    "@modern-js/babel-preset" "2.67.4"
+    "@modern-js/flight-server-transform-plugin" "2.67.4"
+    "@modern-js/utils" "2.67.4"
     "@pmmmwh/react-refresh-webpack-plugin" "0.5.16"
-    "@rsbuild/core" "1.3.20"
+    "@rsbuild/core" "1.3.16"
     "@rsbuild/plugin-assets-retry" "1.2.1"
     "@rsbuild/plugin-babel" "1.0.5"
     "@rsbuild/plugin-check-syntax" "1.3.0"
@@ -1607,9 +1607,9 @@
     "@rsbuild/plugin-type-check" "1.2.1"
     "@rsbuild/plugin-typed-css-modules" "1.0.2"
     "@rsbuild/plugin-yaml" "1.0.2"
-    "@rsbuild/webpack" "1.3.1"
+    "@rsbuild/webpack" "1.3.0"
     "@swc/core" "1.10.18"
-    "@swc/helpers" "^0.5.17"
+    "@swc/helpers" "0.5.13"
     autoprefixer "10.4.21"
     babel-loader "9.2.1"
     babel-plugin-import "1.13.8"
@@ -1638,7 +1638,7 @@
     terser-webpack-plugin "5.3.14"
     ts-deepmerge "7.0.2"
     ts-loader "9.4.4"
-    webpack "^5.99.8"
+    webpack "^5.98.0"
     webpack-subresource-integrity "5.1.0"
 
 "@modern-js/utils@2.65.1":
@@ -1651,12 +1651,12 @@
     lodash "^4.17.21"
     rslog "^1.1.0"
 
-"@modern-js/utils@2.67.5":
-  version "2.67.5"
-  resolved "https://registry.yarnpkg.com/@modern-js/utils/-/utils-2.67.5.tgz#c5bdc66592ba5efb3c0159a9c1202b2385b2b461"
-  integrity sha512-4nECSADbX1mNbnBDVRP8i5Rm/JkMhAZHslhO/7uPKs1uWqgja3IRH/UTgG/+mnohQTL9uQAZeIkvQInnYOtNww==
+"@modern-js/utils@2.67.4":
+  version "2.67.4"
+  resolved "https://registry.yarnpkg.com/@modern-js/utils/-/utils-2.67.4.tgz#e270c5a2e87c30dba63c5eadddb99e9194c3aacd"
+  integrity sha512-57LB+m/1++frDx2AFVw17wCsfobqd4b81VYWdFHlXDl7kSk6p6fTV5m8dxzSrpSYLGvhgA5PiRnSIoHXcfzyTQ==
   dependencies:
-    "@swc/helpers" "^0.5.17"
+    "@swc/helpers" "0.5.13"
     caniuse-lite "^1.0.30001520"
     lodash "^4.17.21"
     rslog "^1.1.0"
@@ -1731,6 +1731,11 @@
     btoa "^1.2.1"
     schema-utils "^4.3.0"
     upath "2.0.1"
+
+"@module-federation/error-codes@0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@module-federation/error-codes/-/error-codes-0.13.0.tgz#56f9a5de0777ce64b722c5a20a8b4e4ea66c7551"
+  integrity sha512-4soAMLr7qcVWuvCsyRmBbiBfuhxmnDeyl+qzjMx8VurQgL+XQDQJapM9RXngNGT4g8FoCq9o7rM5YWNgFFNUiw==
 
 "@module-federation/error-codes@0.13.1":
   version "0.13.1"
@@ -1812,6 +1817,14 @@
     "@module-federation/sdk" "0.13.1"
     btoa "1.2.1"
 
+"@module-federation/runtime-core@0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@module-federation/runtime-core/-/runtime-core-0.13.0.tgz#8d36145a269b44bbd133cb42f36689bd755afc0f"
+  integrity sha512-Oj/1p0mfxZ+8EbU7ND4gMvRmikFpIvPCbblOgat9N8ZIVAKYpTimCgMhzg4yRqAwzlGCVwnnW7XZ8UlA+Zqrvg==
+  dependencies:
+    "@module-federation/error-codes" "0.13.0"
+    "@module-federation/sdk" "0.13.0"
+
 "@module-federation/runtime-core@0.13.1":
   version "0.13.1"
   resolved "https://registry.yarnpkg.com/@module-federation/runtime-core/-/runtime-core-0.13.1.tgz#e9c8002eed251feeae1a04688dff1fb6c9aa32d1"
@@ -1819,6 +1832,14 @@
   dependencies:
     "@module-federation/error-codes" "0.13.1"
     "@module-federation/sdk" "0.13.1"
+
+"@module-federation/runtime-tools@0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@module-federation/runtime-tools/-/runtime-tools-0.13.0.tgz#599e3026814fe30ad7e5cbaef20eddd3d829c81b"
+  integrity sha512-6ECWX18yGrQKcmkrQoNPd5VEpxZP1SMaB/Bp55xlpEhsrpn4zHnriQluxDw6xldjSOLl1qbokfxwCwjS2OaEbg==
+  dependencies:
+    "@module-federation/runtime" "0.13.0"
+    "@module-federation/webpack-bundler-runtime" "0.13.0"
 
 "@module-federation/runtime-tools@0.13.1":
   version "0.13.1"
@@ -1828,6 +1849,15 @@
     "@module-federation/runtime" "0.13.1"
     "@module-federation/webpack-bundler-runtime" "0.13.1"
 
+"@module-federation/runtime@0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@module-federation/runtime/-/runtime-0.13.0.tgz#23cf1a6e0beb81db5cc88fbd07cc135ada78936b"
+  integrity sha512-Ne/3AEVWz6LL6G/i41O5MC6YYlg0SatNNqG/0XbuMAfyGM+llRmB6VKt0o2+JR4isxWuPNp97TbUkkfORit6Eg==
+  dependencies:
+    "@module-federation/error-codes" "0.13.0"
+    "@module-federation/runtime-core" "0.13.0"
+    "@module-federation/sdk" "0.13.0"
+
 "@module-federation/runtime@0.13.1":
   version "0.13.1"
   resolved "https://registry.yarnpkg.com/@module-federation/runtime/-/runtime-0.13.1.tgz#bd103f3e62dc335f5d7ab6e0b8f086febe5bb487"
@@ -1836,6 +1866,11 @@
     "@module-federation/error-codes" "0.13.1"
     "@module-federation/runtime-core" "0.13.1"
     "@module-federation/sdk" "0.13.1"
+
+"@module-federation/sdk@0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@module-federation/sdk/-/sdk-0.13.0.tgz#d13aa09471911f665a87524dd45cd4d24e26b2b1"
+  integrity sha512-JdMZaPD+EQvMJYS+/8/8QjaAHQ3qljogvioXBsAuedcStu/msn5e1Fswc0G34kXY9ixs2hUPZU2cAllfSKWIBQ==
 
 "@module-federation/sdk@0.13.1":
   version "0.13.1"
@@ -1850,6 +1885,14 @@
     find-pkg "2.0.0"
     fs-extra "9.1.0"
     resolve "1.22.8"
+
+"@module-federation/webpack-bundler-runtime@0.13.0":
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/@module-federation/webpack-bundler-runtime/-/webpack-bundler-runtime-0.13.0.tgz#7ffb220abcc9a53b0066fe48bc23c08e7e149cc7"
+  integrity sha512-ycgAsFeCTo+3GR8JxkhCyg2UZm6Au98ISdLTdVXYphO4UDcO/KjqyJen1LXEslkpCEohDj68Prei2fUHRruK6g==
+  dependencies:
+    "@module-federation/runtime" "0.13.0"
+    "@module-federation/sdk" "0.13.0"
 
 "@module-federation/webpack-bundler-runtime@0.13.1":
   version "0.13.1"
@@ -1906,12 +1949,12 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
-"@rsbuild/core@1.3.20":
-  version "1.3.20"
-  resolved "https://registry.yarnpkg.com/@rsbuild/core/-/core-1.3.20.tgz#fde936fa3e5a7da6a209952e7adeea5e5928841b"
-  integrity sha512-5VxOddgGHaq5x4ONdKOZvLYLj8dhVfCAz+cERNLXrKLzBISouY1A9TJcbZBK4xoH/0DJrDtDzapNA+dI9Jr07Q==
+"@rsbuild/core@1.3.16":
+  version "1.3.16"
+  resolved "https://registry.yarnpkg.com/@rsbuild/core/-/core-1.3.16.tgz#6534412646e76be3b72d364583c627e84bf247c0"
+  integrity sha512-LGr+IcaIWMxpt2bE5A+iPV8Ui44oDPxfBMuC9dQB3NuA5GQgJsgGRmWCNbWBN1hmL7eMcN/DFP19iNafTDf3dQ==
   dependencies:
-    "@rspack/core" "1.3.10"
+    "@rspack/core" "1.3.8"
     "@rspack/lite-tapable" "~1.0.1"
     "@swc/helpers" "^0.5.17"
     core-js "~3.42.0"
@@ -2085,10 +2128,10 @@
   resolved "https://registry.yarnpkg.com/@rsbuild/plugin-yaml/-/plugin-yaml-1.0.2.tgz#5aa66fe3d2ee619dcdfffe00507497c3a693615f"
   integrity sha512-M7POrqJAYS8IoY4trdLe9DUhDC01MvA0ge4ZKHoVQzlNLWVj2QHHXdz55/bfpkNYhoNGdCntoDmE/dn1zIpcAw==
 
-"@rsbuild/webpack@1.3.1":
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/@rsbuild/webpack/-/webpack-1.3.1.tgz#2e36121a63fcaf3c7db32dc5dbd368091f64796e"
-  integrity sha512-J51VU3FQZTw0kN7pXvy+Z5ImQKLyvHgSdVMltdf/N8/09dwoAStgGpjo4l7Uvub9K/DgMJSeAJuu0gHvyr+cGg==
+"@rsbuild/webpack@1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@rsbuild/webpack/-/webpack-1.3.0.tgz#810501f9b2b8fb699c3ac67078d4be0d1ff8522c"
+  integrity sha512-VeEw2hLHHR46836Hw6WQUtoneqY4IOMS3fP/7YJxG342QG59QsBEjZpTdudOqBLu8f6BxKWGsUboqk65LmFsHw==
   dependencies:
     copy-webpack-plugin "11.0.0"
     html-webpack-plugin "^5.6.3"
@@ -2096,77 +2139,77 @@
     picocolors "^1.1.1"
     reduce-configs "^1.1.0"
     tsconfig-paths-webpack-plugin "4.2.0"
-    webpack "^5.99.8"
+    webpack "^5.98.0"
 
-"@rspack/binding-darwin-arm64@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/binding-darwin-arm64/-/binding-darwin-arm64-1.3.10.tgz#676ac33fc66a7da4669e68175bf267f40b99a282"
-  integrity sha512-0k/j8OeMSVm5u5Nzckp9Ie7S7hprnvNegebnGr+L6VCyD7sMqm4m+4rLHs99ZklYdH0dZtY2+LrzrtjUZCqfew==
+"@rspack/binding-darwin-arm64@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/binding-darwin-arm64/-/binding-darwin-arm64-1.3.8.tgz#5c6794c0b88447220f8a8de0577a8fd3c80295d6"
+  integrity sha512-FlfWZzwCxDfLwyiqGaCSINHt2Er1Wno9xZrf2QM7Ss00HyocPo4BUYGYBEi4dai/fPFoeYKeEAdsNdrVmFH4+g==
 
-"@rspack/binding-darwin-x64@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/binding-darwin-x64/-/binding-darwin-x64-1.3.10.tgz#79102a085443617bf70ced9dc5f7cfe2fb3dd6a6"
-  integrity sha512-jOyqYW/18cgxw60wK5oqJvM194pbD4H99xaif89McNtLkH3npFvBkXBHVWWuOHGoXNX0LhRpHcI89p9b9THQZQ==
+"@rspack/binding-darwin-x64@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/binding-darwin-x64/-/binding-darwin-x64-1.3.8.tgz#7b5373b791c66795556a5c3de5c52c498eb01f33"
+  integrity sha512-IGXDKHDHiL7WxE/OZMaeIuHzqOzDam3k8WrseHAdl5upKvCp/snwwGdulB/rqGxwkQIXIsv105vIFbGOAe2g0A==
 
-"@rspack/binding-linux-arm64-gnu@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/binding-linux-arm64-gnu/-/binding-linux-arm64-gnu-1.3.10.tgz#192c7f27013119f6fc082fca03525897726eda21"
-  integrity sha512-zhF5ZNaT/7pxrm8xD3dWG1b4x+FO3LbVeZZG448CjpSo5T57kPD+SaGUU1GcPpn6mexf795x0SVS49aH7/e3Dg==
+"@rspack/binding-linux-arm64-gnu@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/binding-linux-arm64-gnu/-/binding-linux-arm64-gnu-1.3.8.tgz#ece1d034689595fda7791adb5b08ac682597d797"
+  integrity sha512-PU9fv8knPvbxQb8NrDmTrLVpy8QY0vuhzk69/ZuLRW89c0P14HovYeHV+38cQHho4++avUQgVp6vnJI9vSQjtg==
 
-"@rspack/binding-linux-arm64-musl@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/binding-linux-arm64-musl/-/binding-linux-arm64-musl-1.3.10.tgz#2be001351a7f2e93d7a189b8607137343648a682"
-  integrity sha512-o3x7IrOSCHK6lcRvdZgsSuOG1CHRQR00xiyLW7kkWmNm7t417LC9xdFWKIK62C5fKXGC5YcTbUkDMnQujespkg==
+"@rspack/binding-linux-arm64-musl@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/binding-linux-arm64-musl/-/binding-linux-arm64-musl-1.3.8.tgz#565de20adbe47f03b56993f713600e8eed09daa6"
+  integrity sha512-UMZBuTw5iXeA6gmtZYQvAb7g56odfoIkU6YvfqV67AMU0EY2y52sc7ABFloDzURJ1xd2om01Nlru8y48S2lMPw==
 
-"@rspack/binding-linux-x64-gnu@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/binding-linux-x64-gnu/-/binding-linux-x64-gnu-1.3.10.tgz#ad44d1dee50688ed81e87235d774bfe22528ce20"
-  integrity sha512-FMSi28VZhXMr15picOHFynULhqZ/FODPxRIS6uNrvPRYcbNuiO1v+VHV6X88mhOMmJ/aVF6OwjUO/o2l1FVa9Q==
+"@rspack/binding-linux-x64-gnu@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/binding-linux-x64-gnu/-/binding-linux-x64-gnu-1.3.8.tgz#8d045d0ecaebaaaeff98088d5a90dd1732475532"
+  integrity sha512-48hfwVsD2/Caa0HgZiqE1T20H89cnomcaP92++x8t4IQ2uKA9xCeBW87RD/AaKXcb78aM987ctE+asKjN8OVjw==
 
-"@rspack/binding-linux-x64-musl@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/binding-linux-x64-musl/-/binding-linux-x64-musl-1.3.10.tgz#24ff3df3017c44e570a604e64312b0a3c603a133"
-  integrity sha512-e0xbY9SlbRGIFz41v1yc0HfREvmgMnLV1bLmTSPK8wI2suIEJ7iYYqsocHOAOk86qLZcxVrTnL6EjUcNaRTWlg==
+"@rspack/binding-linux-x64-musl@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/binding-linux-x64-musl/-/binding-linux-x64-musl-1.3.8.tgz#b41deca9d913b4322bcf86deaa367a9b44f99872"
+  integrity sha512-Jx+JlVnLzzVL/62NbEFaVcM2HU4QtNEF+wzo+yODNprx78ZLe3PJT/LdtwLMvE77K2PlGn5CZcmBay6Xwkd/2A==
 
-"@rspack/binding-win32-arm64-msvc@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/binding-win32-arm64-msvc/-/binding-win32-arm64-msvc-1.3.10.tgz#d853250fee6b066a815c3d29abd115db331a4b6b"
-  integrity sha512-YHJPvEujWeWjU6EUF6sDpaec9rsOtKVvy16YCtGaxRpDQXqfuxibnp6Ge0ZTTrY+joRiWehRA9OUI+3McqI+QA==
+"@rspack/binding-win32-arm64-msvc@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/binding-win32-arm64-msvc/-/binding-win32-arm64-msvc-1.3.8.tgz#26317e556e2b62a3aab440548fcecd234705a746"
+  integrity sha512-84tifCsYhir/p5GH0knBOXtLpfRzIFDxF4nF4bHsuwaA1uqwyk0WlWGt4ZwRUtyzh0TN4cJdnqJl/f5209BdLw==
 
-"@rspack/binding-win32-ia32-msvc@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/binding-win32-ia32-msvc/-/binding-win32-ia32-msvc-1.3.10.tgz#40d401aa1c7550f2b5688b68aee54de3abca67b1"
-  integrity sha512-2iwSBzVBC89ZSk56MYwgirh3bda2WKmL9I3qPajiTEivChXpX7jp83jAtGE6CPqPYcccYz6nrURTHNUZhqXxVw==
+"@rspack/binding-win32-ia32-msvc@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/binding-win32-ia32-msvc/-/binding-win32-ia32-msvc-1.3.8.tgz#3c9935ccd999e00ce2ae0aa67871b57b5da7fa25"
+  integrity sha512-Grrcfr95gRhJ7FbKtIxfhNAzSM+hvtD2jAMs9fmw/UrgiNsXeaWwJaYgImqHGirKIx8iygZ0t1q7ePIVM+SKMg==
 
-"@rspack/binding-win32-x64-msvc@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/binding-win32-x64-msvc/-/binding-win32-x64-msvc-1.3.10.tgz#4eefa2d1d851c25ba0e0b1eee0ee525be224c1cd"
-  integrity sha512-ehWJ9Y5Zezj/+uJpiWbt29RZaRIM00f91PWuabM6/sKmHJhdCEE21u5iI3B8DeW/EjJsH8zkI69YYAxJWwGn9A==
+"@rspack/binding-win32-x64-msvc@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/binding-win32-x64-msvc/-/binding-win32-x64-msvc-1.3.8.tgz#026df82b1ac5b59ac9487dcc30ed0b981d3193fc"
+  integrity sha512-wW+Ig3kVqcRcY+3mxZnruN4AdeJYjbEBd2zvheEAOvx/DC+xEQ6czvDXbZEZQQ9rU/znhuKl0Z+898q8l3LwzA==
 
-"@rspack/binding@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/binding/-/binding-1.3.10.tgz#b14d9a21a7bae8c7025e6c2d9707e81c311147d5"
-  integrity sha512-9TjO+Ig5U4VqdYWpBsv01n4d2KsgFfdXGIE7zdHXDDbry0avL0J4109ESqSeP9uC+Bi7ZCF53iaxJRvZDflNVQ==
+"@rspack/binding@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/binding/-/binding-1.3.8.tgz#325503af909c3a08aab5b0e054c9053946b365a2"
+  integrity sha512-0oGrPgnwDsrDN7Swk7OZGvee8y/AdvDXF3f1QewkueJ5uyDaGszDxipEpf644HWIcj11fgNJQEphGEhaAVjofw==
   optionalDependencies:
-    "@rspack/binding-darwin-arm64" "1.3.10"
-    "@rspack/binding-darwin-x64" "1.3.10"
-    "@rspack/binding-linux-arm64-gnu" "1.3.10"
-    "@rspack/binding-linux-arm64-musl" "1.3.10"
-    "@rspack/binding-linux-x64-gnu" "1.3.10"
-    "@rspack/binding-linux-x64-musl" "1.3.10"
-    "@rspack/binding-win32-arm64-msvc" "1.3.10"
-    "@rspack/binding-win32-ia32-msvc" "1.3.10"
-    "@rspack/binding-win32-x64-msvc" "1.3.10"
+    "@rspack/binding-darwin-arm64" "1.3.8"
+    "@rspack/binding-darwin-x64" "1.3.8"
+    "@rspack/binding-linux-arm64-gnu" "1.3.8"
+    "@rspack/binding-linux-arm64-musl" "1.3.8"
+    "@rspack/binding-linux-x64-gnu" "1.3.8"
+    "@rspack/binding-linux-x64-musl" "1.3.8"
+    "@rspack/binding-win32-arm64-msvc" "1.3.8"
+    "@rspack/binding-win32-ia32-msvc" "1.3.8"
+    "@rspack/binding-win32-x64-msvc" "1.3.8"
 
-"@rspack/core@1.3.10":
-  version "1.3.10"
-  resolved "https://registry.yarnpkg.com/@rspack/core/-/core-1.3.10.tgz#6b00365c3ccfd1008d598d1ce5a82bab466dc777"
-  integrity sha512-YomvSRGuMUQgCE2rNMdff2q1Z0YpZw/z6m5+PVTMSs9l/q69YKUzpbpSD8YyB5i1DddrRxC2RE34DkrBuwlREQ==
+"@rspack/core@1.3.8":
+  version "1.3.8"
+  resolved "https://registry.yarnpkg.com/@rspack/core/-/core-1.3.8.tgz#32738f9418843515186ae9ef31b947c209351ed6"
+  integrity sha512-1zefymDypUROYzGGNa553JR1Ah8En25npwSRIZCuZvfjo6nME6XvjkMxQwhjzMStoqRmFD9+nKUHSiN5jVWWyw==
   dependencies:
-    "@module-federation/runtime-tools" "0.13.1"
-    "@rspack/binding" "1.3.10"
+    "@module-federation/runtime-tools" "0.13.0"
+    "@rspack/binding" "1.3.8"
     "@rspack/lite-tapable" "1.0.1"
-    caniuse-lite "^1.0.30001717"
+    caniuse-lite "^1.0.30001715"
 
 "@rspack/lite-tapable@1.0.1", "@rspack/lite-tapable@^1.0.0", "@rspack/lite-tapable@^1.0.1", "@rspack/lite-tapable@~1.0.1":
   version "1.0.1"
@@ -3352,7 +3395,7 @@ caniuse-api@^3.0.0:
     lodash.memoize "^4.1.2"
     lodash.uniq "^4.5.0"
 
-caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001520, caniuse-lite@^1.0.30001688, caniuse-lite@^1.0.30001702, caniuse-lite@^1.0.30001716, caniuse-lite@^1.0.30001717:
+caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001520, caniuse-lite@^1.0.30001688, caniuse-lite@^1.0.30001702, caniuse-lite@^1.0.30001715, caniuse-lite@^1.0.30001716:
   version "1.0.30001718"
   resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001718.tgz#dae13a9c80d517c30c6197515a96131c194d8f82"
   integrity sha512-AflseV1ahcSunK53NfEs9gFWgOEmzr0f+kaMFA4xiLZlr9Hzt7HxcSpIFcnNCUkz6R6dWKa54rUz3HUmI3nVcw==
@@ -7798,7 +7841,7 @@ webpack-subresource-integrity@5.1.0:
   dependencies:
     typed-assert "^1.0.8"
 
-webpack@^5.99.8:
+webpack@^5.98.0:
   version "5.99.8"
   resolved "https://registry.yarnpkg.com/webpack/-/webpack-5.99.8.tgz#dd31a020b7c092d30c4c6d9a4edb95809e7f5946"
   integrity sha512-lQ3CPiSTpfOnrEGeXDwoq5hIGzSjmwD72GdfVzF7CQAI7t47rJG9eDWvcEkEn3CUQymAElVvDg3YNTlCYj+qUQ==
